@@ -2,9 +2,7 @@ Bản demo chạy chưa ổn
 
 
 1/Thu thập Dữ liệu (Data Collection)
-
 Tại Terminal, gõ lệnh python main.py
-
 Bắt đầu diễn xuất nét mặt và nhấn các phím số tương ứng trên bàn phím để hệ thống ghi hình:
 
   Phím 0 - Bình thường: Trạng thái làm việc tiêu chuẩn, cơ mặt thả lỏng.
