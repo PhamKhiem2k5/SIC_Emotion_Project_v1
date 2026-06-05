@@ -5,9 +5,13 @@ Bản demo chạy chưa ổn
 
 Tại Terminal, gõ lệnh python main.py
 Bắt đầu diễn xuất nét mặt và nhấn các phím số tương ứng trên bàn phím để hệ thống ghi hình:
+
   Phím 0 - Bình thường: Trạng thái làm việc tiêu chuẩn, cơ mặt thả lỏng.
+  
   Phím 1 - Căng thẳng: Nhíu mày, căng cơ mặt.
+  
   Phím 2 - Mệt mỏi: Mắt chớp chậm, ngáp, hoặc nhắm mắt.
+  
   Phím 3 - Vui vẻ: Cười, giãn cơ mặt.
 
 2/Huấn luyện Mô hình (Training)
