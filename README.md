@@ -12,6 +12,7 @@ Bắt đầu diễn xuất nét mặt và nhấn các phím số tương ứng t
 2/Huấn luyện Mô hình (Training)
 Tại Terminal, gõ lệnh python train.py và nhấn Enter.
 File này sẽ tự động đọc dữ liệu tọa độ, tiến hành chuẩn hóa (Normalization) để loại bỏ hiệu ứng xa gần của camera, và bắt đầu huấn luyện mạng LSTM.
+
 Khi quá trình chạy hoàn tất (chỉ số Loss giảm, Accuracy tăng), hệ thống sẽ xuất ra một tệp trọng số (ví dụ: lstm_emotion.pth hoặc best_model.pth). Đây chính là "bộ não" đã được học thuộc biểu cảm của bạn.
 
 3/Chạy Nhận diện Thực tế
